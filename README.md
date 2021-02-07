@@ -7,7 +7,7 @@
 - 點選"我的餐廳清單"可返回首頁
 
 ### 啟動方式
-- 將專案clone到本地端
+- 將專案 clone 到本地端
   ```
   1) git clone http://github.com/Crystal9ong/restaurant-list/git
   2) 點選 Download ZIP 下載
@@ -19,7 +19,7 @@
   npm install
   ```
 
-- 透過nodemon啟動專案
+- 透過 nodemon 啟動專案
   ```
   npm run dev
   ```
