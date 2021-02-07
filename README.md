@@ -12,7 +12,6 @@
   1) git clone http://github.com/Crystal9ong/restaurant-list/git
   ```
   2) 點選 Download ZIP 下載
-  ```
 
 - 進到專案資料夾後，安裝工具包
   ```
